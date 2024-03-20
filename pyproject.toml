@@ -17,7 +17,7 @@ redis = "^4.3.5"
 
 [tool.poetry.dev-dependencies]
 isort = "^5.10.1"
-black = "^22.6.0"
+black = "^24.3.0"
 pytest = "^7.1.2"
 
 [tool.poe.tasks]
